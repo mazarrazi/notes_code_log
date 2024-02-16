@@ -1,1 +1,11 @@
-
+1.Relational Database Theory and Introduction to SQL
+	1.1. Why use SQL?
+	1.2. Why use MySQL?
+	1.3. Introducing Databases
+	1.4. Relational Database Fundamentals
+	1.5. Comparing Databases and Spreadsheets
+	1.6. Important Database Terminology
+	1.7. The Concept of Relational Schemas: Primary Key
+	1.8. The Concept of Relational Schemas: Foreign Key
+	1.9. The Concept of Relational Schemas: Unique Key and Null Values
+	1.10. The Concept of Relational Schemas: Relationships Between Tables
