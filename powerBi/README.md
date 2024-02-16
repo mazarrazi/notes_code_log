@@ -1,5 +1,5 @@
-# powerBI_churnDS
+### powerBi 
+Data Analysis & Visualization using Excel, Power BI
 
-Data Analysis & Visualization of Churn Dataset using Excel, Power BI
+1. [CHURN DATASET.pdf](https://github.com/mazarrazi/notes_code_log/blob/main/powerBi/1.churnDS/CHURN%20DATASET.pdf)
 
-[CHURN DATASET.pdf](https://github.com/mazarrazi/powerBI_churnDS/files/14227798/CHURN.DATASET.pdf)
