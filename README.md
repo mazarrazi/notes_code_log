@@ -1,5 +1,5 @@
 
-I've upload my codes and notes here using it for quick reference every day. 
+I've upload my codes and notes here, using it for quick reference. 
 
 Since it might be useful to others I've made it public.
 
